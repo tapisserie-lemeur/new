@@ -19,11 +19,11 @@ Voilages
 
 Je réalise vos voilages avec des "têtes" originales, sans rufflettes, ni couture apparente.
 
-![](/images/root/gabiaradonsieges-037.jpg)  
+![](images/root/gabiaradonsieges-037.jpg)  
   
-![](/images/root/gabiaradonsieges-022.jpg)  
+![](images/root/gabiaradonsieges-022.jpg)  
   
-![](/images/root/gabiaradonsieges-029.jpg)  
+![](images/root/gabiaradonsieges-029.jpg)  
   
 
 Doubles rideaux
@@ -39,7 +39,7 @@ Comme les voilages, les têtes de rideaux peuvent être variées :
 *   Montées sur pattes
 *   Stores bateaux
 
-![Stores bateaux](/images/root/stores-bateaux.jpg "Stores bateaux")
+![Stores bateaux](images/root/stores-bateaux.jpg "Stores bateaux")
 
 Il est possible de les ornementer de rubans et autres passementeries. Je suis entièrement à votre écoute pour satisfaire vos envies, [n'hésitez pas à me contacter](../contact/)
 

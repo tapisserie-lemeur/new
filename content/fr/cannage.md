@@ -27,7 +27,7 @@ Viennent ensuite les deux étapes du cannage en diagonale, l'une tressée de dro
 
 Reste la finition qui consiste à poser une éclisse, c'est à dire un brin de bordure plus large pour masquer les trous du chassis.
 
-![dessin de cannage](/images/root/cannage1.jpg "Dessin de cannage")
+![dessin de cannage](images/root/cannage1.jpg "Dessin de cannage")
 
 ### Le cannage en chevillé
 
@@ -36,16 +36,16 @@ C'est un travail identique réalisé sur des dossiers ou des accotoirs de fauteu
 On obtiendra des effets variés selon la forme des futs.  
 Ex : dossier en soleil.
 
-![cannage de dossier en soleil](/images/root/cannage2.jpg "dossier en soleil")  
+![cannage de dossier en soleil](images/root/cannage2.jpg "dossier en soleil")  
   
-![cannage de dossier en soleil](/images/root/cannage_soleil.jpg "cannage de dossier en soleil")
+![cannage de dossier en soleil](images/root/cannage_soleil.jpg "cannage de dossier en soleil")
 
 Il est également possible de créer différents modèles de cannage , il suffit de laisser aller son imagination, tout est histoire de tissage...
 
-![Autre cannage](/images/root/cannage_rv.jpg "Autre cannage")
+![Autre cannage](images/root/cannage_rv.jpg "Autre cannage")
 
-![table chevillée](/images/root/table-chevillee.jpg "table chevillée")  
-![détail table chevillée](/images/root/detail-table-chevillee.jpg "détail table chevillée")
+![table chevillée](images/root/table-chevillee.jpg "table chevillée")  
+![détail table chevillée](images/root/detail-table-chevillee.jpg "détail table chevillée")
 
 ### Cannage en plein
 
@@ -55,7 +55,7 @@ L'aspect final du travail ressemble à un tissage tissu avec différentes possib
 
 C'est un cannage résistant et qui peut s'adapter sur des chaises autrefois paillées.
 
-![fond plein](/images/root/fond-plein.jpg "fond plein")
+![fond plein](images/root/fond-plein.jpg "fond plein")
 
 ### Le cannage industriel
 

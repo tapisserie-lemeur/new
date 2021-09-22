@@ -20,6 +20,6 @@ Quelques exemples de réalisations possibles :
     *   selles de motos
     *   bateaux de plaisance, voiliers
 
-![Sellerie d'avion](/images/root/sellerie-avion.jpg "Sellerie d'avion")
+![Sellerie d'avion](images/root/sellerie-avion.jpg "Sellerie d'avion")
 
 Je réalise également des coussins sur mesure pour équiper votre bateau, votre camping car ou autre nid de vacances, ainsi que la literie adaptée (draps housses sur couchage hors norme.)
