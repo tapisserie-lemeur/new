@@ -1,22 +1,18 @@
-title = "Notre-Dame de Paris"
-baseURL = "https://example.com"
-languageCode = "en-us"
+title = "Tapisserie LE MEUR"
+baseURL = "https://tapisserie-lemeur.fr"
+languageCode = "fr-fr"
 theme = "ananke"
 
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "fr"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
 [languages]
-  [languages.en]
-    title = "My blog"
-    weight = 1
-    contentDir = "content/en"
   [languages.fr]
-    title = "Mon blogue"
-    weight = 2
+    title = "Tapisserie LE MEUR"
+    weight = 1
     contentDir = "content/fr"
 
 [sitemap]
@@ -26,10 +22,10 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  site_logo = ""
-  description = "The last theme you'll ever need. Maybe."
+  site_logo = "" #"/images/root/voltaire5blanc.jpg"
+  description = "Site de l'entreprise de tapisserie d'ameublement de Claudine LE MEUR"
   facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
+  twitter = ""
   instagram = ""
   youtube = ""
   github = ""

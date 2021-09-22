@@ -8,7 +8,15 @@ menu: main
 
 ---
 
+**Claudine LE MEUR**
 
-This is the French contact page. This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service.
+Zone Artisanale Miné Rulan 1  
+29390 SCAËR
 
-{{< form-contact action="https://example.com"  >}}
+Tel. : 02 98 57 63 87  
+Fax : 02 98 57 60 93  
+E-mail : [infos@tapisserie-lemeur.fr](mailto:infos@tapisserie-lemeur.fr?subject=informations)
+
+Mon atelier, situé à Scaër, ville du sud Finistère à 50 kms entre Lorient et Quimper, est ouvert du lundi au samedi, de 9H à 19H. Veuillez me contacter pour une visite.
+
+Etude et devis gratuits.
