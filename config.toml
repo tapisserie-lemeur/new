@@ -1,4 +1,4 @@
 baseURL = 'http://example.org/'
 languageCode = 'fr-fr'
-title = 'Tapisserie d'ameublement LE MEUR'
-theme = "ananke"
+title = 'Tapisserie LE MEUR'
+theme = "hugo-coder"
