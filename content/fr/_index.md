@@ -1,13 +1,13 @@
 ---
 title: Tapisserie d'ameublement LE MEUR
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
+featured_image: "images/gohugo-default-sample-hero-image.jpg"
 description: "Pour une remise en valeur de votre patrimoine pensez à Claudine LE MEUR, couturière de vos meubles. Je réfectionne vos sièges, fauteuils et canapés. Je restaure votre cannage. J'habille vos fenêtres, tables, guéridons"
 type: page
 # menu: main
 
 ---
 
-![photo de siège](/images/root/DSC01686.JPG "photo de siège") ![photo de rideau](/images/root/PHOT2.jpg "photo de rideau") ![photo de chaise](/images/root/DSC02789.JPG "photo de chaise")
+![photo de siège](images/root/DSC01686.JPG "photo de siège") ![photo de rideau](images/root/PHOT2.jpg "photo de rideau") ![photo de chaise](images/root/DSC02789.JPG "photo de chaise")
 
 Les motivations qui sont à l'origine de la réfection d'un siège par un tapissier sont le plus souvent d'ordre sentimental ou patrimonial.
 
